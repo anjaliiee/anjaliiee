@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Anjali</h1>
-<h3 align="center">As a self-motivated individual and an avid learner, I am committed to continuous improvement. As a computer science engineer, I have a deep passion for technology and creativity. I thrive on creating, assisting others, and exploring new horizons. My leadership skills allow me to guide teams effectively, and I embrace learning through practical experiences. With substantial programming expertise in C++, JavaScript, and Python, I maintain an insatiable curiosity for acquiring new skills and expanding my knowledge.</h3>
+<h1 align="center">Bonjour, I'm Anjali</h1>
+<h3 align="center">As a self-motivated individual and an avid learner, I am committed to continuous improvement.I have a deep passion for technology and creativity. I thrive on creating, assisting others, and exploring new horizons. My leadership skills allow me to guide teams effectively, and I embrace learning through practical experiences. With substantial programming expertise in C++, JavaScript, and Python, I maintain an insatiable curiosity for acquiring new skills and expanding my knowledge.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjaliiee&label=Profile%20views&color=0e75b6&style=flat" alt="anjaliiee" /> </p>
 
