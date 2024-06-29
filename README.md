@@ -10,9 +10,8 @@
 
 
 <h1>Connect with me:</h1>
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/www.linkedin.com/in/anjali-yadav-35ba5b272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/anjali-yadav-35ba5b272" height="65" width="65" /></a>
-  
 <a href="https://www.leetcode.com/anj_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anj_07" height="65" width="65" /></a>
 </p
 
@@ -49,6 +48,6 @@
 <br/>
 <hr>
 
-<p><img align="center" width="80% "src="https://github-readme-stats.vercel.app/api/top-langs?username=anjaliiee&show_icons=true&theme=midnight-purple&locale=en&layout=compact" alt="anjaliiee" /></p>
+<p><img align="center" width="50% "src="https://github-readme-stats.vercel.app/api/top-langs?username=anjaliiee&show_icons=true&theme=midnight-purple&locale=en&layout=compact" alt="anjaliiee" /></p>
 
 
