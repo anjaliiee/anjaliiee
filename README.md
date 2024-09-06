@@ -6,7 +6,7 @@
 
 <h3>As a self-motivated individual and an avid learner, I am committed to continuous improvement. I have a deep passion for technology and creativity. I thrive on creating, assisting others, and exploring new horizons. With substantial programming expertise in C++, JavaScript, and Python, I maintain an insatiable curiosity for acquiring new skills and expanding my knowledge.</h3>
 
-
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
 
 
 <h1>Connect with me:</h1>
