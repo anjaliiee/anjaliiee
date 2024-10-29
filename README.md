@@ -17,14 +17,34 @@ Driven by curiosity and fueled by a passion for tech, I am committed to continuo
 ---
 
 ### 🌐 Connect with Me
-<p align="center">
-  <a href="https://linkedin.com/in/anjali-yadav-35ba5b272" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="45" width="45"/>
-  </a>
-  <a href="https://www.leetcode.com/anj_07" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="45" width="45"/>
-  </a>
-</p>
+
+<table align="center" style="background-color: #f0f4f8; padding: 10px; border-radius: 10px;">
+  <tr>
+    <td align="center">
+      <a href="https://linkedin.com/in/anjali-yadav-35ba5b272" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="60" width="60" style="margin: 10px;"/>
+      </a>
+      <br />
+      <span style="font-weight: bold;">LinkedIn</span>
+    </td>
+    <td align="center">
+      <a href="https://www.leetcode.com/anj_07" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="60" width="60" style="margin: 10px;"/>
+      </a>
+      <br />
+      <span style="font-weight: bold;">LeetCode</span>
+    </td>
+    <td align="center">
+      <a href="https://github.com/anjaliiee" target="blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="60" width="60" style="margin: 10px;"/>
+      </a>
+      <br />
+      <span style="font-weight: bold;">GitHub</span>
+    </td>
+  </tr>
+</table>
+
+---
 
 ---
 
