@@ -34,13 +34,12 @@ Driven by curiosity and fueled by a passion for tech, I am committed to continuo
       <br />
       <span style="font-weight: bold;">LeetCode</span>
     </td>
-    <td align="center">
+<!--     <td align="center">
       <a href="https://github.com/anjaliiee" target="blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="60" width="60" style="margin: 10px;"/>
       </a>
       <br />
-      <span style="font-weight: bold;">GitHub</span>
-    </td>
+    </td> -->
   </tr>
 </table>
 
