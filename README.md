@@ -50,7 +50,7 @@ Driven by curiosity and fueled by a passion for tech, I am committed to continuo
 
 ### 💻 Tech Skills
 
-<table align="center" style="background-color: #ffffff6d;; padding: 10px; border-radius: 10px; theme=tokyonight">
+<table align="center" style="background-color:#f0f4f8; padding: 10px; border-radius: 10px;">
   <tr>
     <th>Languages</th>
     <th>Front-End</th>
