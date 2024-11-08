@@ -4,7 +4,7 @@ Thanks for stopping by—it’s great to have you here! 👋
 ---
 
 <p align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=anjaliiee&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Anjali's GitHub Stats" />
+  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=anjaliiee&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Anjali's GitHub Stats" />
 </p>
 
 ### About Me:
